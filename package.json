@@ -1,0 +1,19 @@
+{
+  "name": "lotus-drift",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lotus Drift — a slow, meditative night-pond boat experience rendered with Three.js.",
+  "author": "SA7",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "0.169.0"
+  },
+  "devDependencies": {
+    "vite": "5.4.11"
+  }
+}
